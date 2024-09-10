@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\userplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\userplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\signcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\signcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\exercisecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\exercisecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\lettercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\lettercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\basiccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\basiccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\basicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\basicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5A998B-B2E6-477E-9EC1-8F9FC7FBF836}|\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF.csproj|solutionrelative:\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Game.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Game.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Game.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Game.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPlayer.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\UserPlayer.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\UserPlayer.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\UserPlayer.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\UserPlayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasicPlayer.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicPlayer.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicPlayer.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicPlayer.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicPlayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExerciseCard.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ExerciseCard.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ExerciseCard.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ExerciseCard.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ExerciseCard.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LetterCard.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\LetterCard.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\LetterCard.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\LetterCard.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\LetterCard.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAawCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignCard.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\SignCard.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\SignCard.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\SignCard.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\SignCard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicCard.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicCard.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicCard.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicCard.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\BasicCard.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Board.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Board.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Board.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ComputerPlayer.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ComputerPlayer.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\ComputerPlayer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Program.cs",
+              "RelativeDocumentMoniker": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Program.cs",
+              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Program.cs",
+              "RelativeToolTip": "\u05DE\u05E9\u05D7\u05E7 \u05D6\u05D9\u05DB\u05E8\u05D5\u05DF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:54:32.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

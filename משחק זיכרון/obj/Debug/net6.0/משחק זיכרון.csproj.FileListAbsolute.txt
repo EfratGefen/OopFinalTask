@@ -1,0 +1,89 @@
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.AssemblyReference.cache
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+M:\יעללל\oop\משחק זיכרון\משחק זיכרון\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
+F:\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+F:\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+F:\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+F:\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+F:\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.AssemblyReference.cache
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+F:\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.AssemblyReference.cache
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+F:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.AssemblyReference.cache
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+E:\לימודים\oop\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.exe
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.deps.json
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.runtimeconfig.json
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.dll
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\bin\Debug\net6.0\משחק זיכרון.pdb
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.GeneratedMSBuildEditorConfig.editorconfig
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfoInputs.cache
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.AssemblyInfo.cs
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.csproj.CoreCompileInputs.cache
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.dll
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\refint\משחק זיכרון.dll
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.pdb
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\משחק זיכרון.genruntimeconfig.cache
+D:\אפרת\שנה א\מונחה עצמים\משחק זיכרון\משחק זיכרון\obj\Debug\net6.0\ref\משחק זיכרון.dll
